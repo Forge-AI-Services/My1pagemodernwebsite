@@ -1,0 +1,11 @@
+{
+  "name": "my-ai-showcase",
+  "version": "1.0.0",
+  "description": "OmniBot AI and Modern 1-Page Website Showcase by Forge AI Services",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["ai", "chatbot", "website-template", "tailwind", "forge-ai"],
+  "author": "Forge AI Services",
+  "license": "MIT"
+}
